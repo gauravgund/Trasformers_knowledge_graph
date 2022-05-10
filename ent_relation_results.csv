@@ -1,0 +1,578 @@
+ent1,ent2,relation
+.,design,EXPERIENCE_IN
+1+ years,development,EXPERIENCE_IN
+1+ years,Java stack,EXPERIENCE_IN
+1+ years,AppConnect,EXPERIENCE_IN
+1+ years,API,EXPERIENCE_IN
+undergraduate,Electronic Medical,DEGREE_IN
+undergraduate,computer science,DEGREE_IN
+undergraduate,.,DEGREE_IN
+3+ years,productivity software tools,EXPERIENCE_IN
+3+ years,modeling tools,EXPERIENCE_IN
+3+ years,oral,EXPERIENCE_IN
+3+ years,customer interaction,EXPERIENCE_IN
+3+ years,Healthcare Information Systems,EXPERIENCE_IN
+3+ years,Design,EXPERIENCE_IN
+3+ years,Tech,EXPERIENCE_IN
+3+ years,Prof,EXPERIENCE_IN
+3+ years,software development,EXPERIENCE_IN
+3+ years,.,EXPERIENCE_IN
+.,productivity software tools,EXPERIENCE_IN
+.,modeling tools,EXPERIENCE_IN
+.,oral,EXPERIENCE_IN
+.,written communication,EXPERIENCE_IN
+.,customer interaction,EXPERIENCE_IN
+.,Healthcare Information Systems,EXPERIENCE_IN
+.,Practice Management,EXPERIENCE_IN
+.,Design,EXPERIENCE_IN
+.,Tech,EXPERIENCE_IN
+.,Prof,EXPERIENCE_IN
+.,software development,EXPERIENCE_IN
+3 to 6 years,Capacity Planning,EXPERIENCE_IN
+3 to 6 years,Supply planning,EXPERIENCE_IN
+3 to 6 years,supply-demand balancing,EXPERIENCE_IN
+3 to 6 years,supply planning,EXPERIENCE_IN
+BS,Engineering,DEGREE_IN
+BS,Operations,DEGREE_IN
+BS,Business,DEGREE_IN
+.,complex product,EXPERIENCE_IN
+.,supply chain,EXPERIENCE_IN
+3-5 years,integration,EXPERIENCE_IN
+3-5 years,product development,EXPERIENCE_IN
+3-5 years,integration,EXPERIENCE_IN
+3-5 years,.,EXPERIENCE_IN
+.,Oracle,EXPERIENCE_IN
+PhD,Acoustics,DEGREE_IN
+PhD,Mechanical Engineering,DEGREE_IN
+PhD,Physics,DEGREE_IN
+PhD,STEM,DEGREE_IN
+PhD,.,DEGREE_IN
+8+ years,designing,EXPERIENCE_IN
+8+ years,developing enterprise-level scale services/solutions,EXPERIENCE_IN
+Bachelors,Computer Science,DEGREE_IN
+Bachelors,Engineering,DEGREE_IN
+2+ years,designing secure,EXPERIENCE_IN
+2+ years,PaaS services,EXPERIENCE_IN
+2+ years,Microsoft Azure,EXPERIENCE_IN
+2+ years,.,EXPERIENCE_IN
+Bachelors,Computer Science,DEGREE_IN
+Bachelors,.,DEGREE_IN
+5+ years,delivering solutions,EXPERIENCE_IN
+2+ years,delivering solutions,EXPERIENCE_IN
+2+ years,managing,EXPERIENCE_IN
+2+ years,leading highly technical teams,EXPERIENCE_IN
+.,delivering solutions,EXPERIENCE_IN
+.,managing,EXPERIENCE_IN
+.,leading highly technical teams,EXPERIENCE_IN
+Data Platform,Azure Core Platform,EXPERIENCE_IN
+Data Platform,Azure DB,EXPERIENCE_IN
+5+ years,Python,EXPERIENCE_IN
+5+ years,Go,EXPERIENCE_IN
+5+ years,C++,EXPERIENCE_IN
+5+ years,.,EXPERIENCE_IN
+7+ years,enterprise technology consulting,EXPERIENCE_IN
+7+ years,direct customer,EXPERIENCE_IN
+7+ years,SAP NetWeaver platform,EXPERIENCE_IN
+7+ years,deployment,EXPERIENCE_IN
+7+ years,transport management,EXPERIENCE_IN
+7+ years,NetWeaver architecture,EXPERIENCE_IN
+7+ years,DBMS,EXPERIENCE_IN
+3+ years,deployment,EXPERIENCE_IN
+3+ years,transport management,EXPERIENCE_IN
+3+ years,NetWeaver architecture,EXPERIENCE_IN
+3+ years,DBMS,EXPERIENCE_IN
+3+ years,RDBMS,EXPERIENCE_IN
+3+ years,performance query analysis,EXPERIENCE_IN
+3+ years,sizing,EXPERIENCE_IN
+3+ years,HA/DR,EXPERIENCE_IN
+3+ years,storage/disk design,EXPERIENCE_IN
+3+ years,HANA,EXPERIENCE_IN
+3+ years,SQL Server,EXPERIENCE_IN
+3+ years,Oracle,EXPERIENCE_IN
+3+ years,Sybase,EXPERIENCE_IN
+3+ years,DB2,EXPERIENCE_IN
+3+ years,MaxDB,EXPERIENCE_IN
+3+ years,SUSE,EXPERIENCE_IN
+3+ years,monitoring,EXPERIENCE_IN
+3+ years,management,EXPERIENCE_IN
+3+ years,articulate value proposition,EXPERIENCE_IN
+Bachelor,Computer Science,DEGREE_IN
+Bachelor,English,DEGREE_IN
+BS or MS,Computer Science,DEGREE_IN
+BS or MS,Engineering,DEGREE_IN
+3-8 years,partner management,EXPERIENCE_IN
+3-8 years,account management,EXPERIENCE_IN
+Bachelors,.,DEGREE_IN
+.,partner management,EXPERIENCE_IN
+.,account management,EXPERIENCE_IN
+.,ICT,EXPERIENCE_IN
+.,partner ecosystems,EXPERIENCE_IN
+.,sales management,EXPERIENCE_IN
+.,sales plans,EXPERIENCE_IN
+.,navigate complex customer environments,EXPERIENCE_IN
+5+ years,software engineering,EXPERIENCE_IN
+5+ years,coding,EXPERIENCE_IN
+5+ years,C,EXPERIENCE_IN
+5+ years,C++,EXPERIENCE_IN
+5+ years,Java,EXPERIENCE_IN
+5+ years,database systems,EXPERIENCE_IN
+B.S.,Computer Science,DEGREE_IN
+M.S.,Computer Science,DEGREE_IN
+PhD,Computer Science,DEGREE_IN
+PhD,M.S.,DEGREE_IN
+PhD,Computer Science,DEGREE_IN
+5 plus years,Full-stack development,EXPERIENCE_IN
+5 plus years,Node.js,EXPERIENCE_IN
+5 plus years,Java,EXPERIENCE_IN
+5 plus years,JavaScript,EXPERIENCE_IN
+5 plus years,Database,EXPERIENCE_IN
+5 plus years,object-oriented design,EXPERIENCE_IN
+5 plus years,data structures,EXPERIENCE_IN
+5 plus years,.,EXPERIENCE_IN
+3 plus years,container orchestration,EXPERIENCE_IN
+3 plus years,iOS,EXPERIENCE_IN
+3 plus years,Swift,EXPERIENCE_IN
+3 plus years,Objective,EXPERIENCE_IN
+3 plus years,-,EXPERIENCE_IN
+3 plus years,C,EXPERIENCE_IN
+3 plus years,iOS,EXPERIENCE_IN
+3 plus years,.,EXPERIENCE_IN
+4+ years,product management,EXPERIENCE_IN
+2+ years,product management,EXPERIENCE_IN
+2+ years,making hardware products,EXPERIENCE_IN
+.,managing multiple ongoing projects,EXPERIENCE_IN
+Bachelors,technical,DEGREE_IN
+Bachelors,business,DEGREE_IN
+6+ years,supply chain,EXPERIENCE_IN
+6+ years,.,EXPERIENCE_IN
+.,time management,EXPERIENCE_IN
+.,Supply Chain Management,EXPERIENCE_IN
+5+ years,technical management,EXPERIENCE_IN
+5+ years,coding,EXPERIENCE_IN
+5+ years,C++,EXPERIENCE_IN
+5+ years,Java,EXPERIENCE_IN
+5+ years,PHP,EXPERIENCE_IN
+5+ years,recruiting and managing,EXPERIENCE_IN
+5+ years,performance management,EXPERIENCE_IN
+BA/BS,Computer Science,DEGREE_IN
+4+ years,performance management,EXPERIENCE_IN
+.,design,EXPERIENCE_IN
+.,organize,EXPERIENCE_IN
+.,manage complex technical products,EXPERIENCE_IN
+.,product,EXPERIENCE_IN
+.,technical,EXPERIENCE_IN
+8+ years,program management,EXPERIENCE_IN
+8+ years,product management,EXPERIENCE_IN
+3+ years,program management,EXPERIENCE_IN
+3+ years,product management,EXPERIENCE_IN
+3+ years,people management,EXPERIENCE_IN
+3+ years,people management,EXPERIENCE_IN
+3+ years,.,EXPERIENCE_IN
+5+ years,technical management,EXPERIENCE_IN
+5+ years,authentication systems,EXPERIENCE_IN
+5+ years,performance management,EXPERIENCE_IN
+BA/BS,Computer Science,DEGREE_IN
+BS/BA,Electrical/Mechanical Engineering,DEGREE_IN
+BS/BA,Computer Science,DEGREE_IN
+BS/BA,Math,DEGREE_IN
+BS/BA,Telecommunications,DEGREE_IN
+4+ years,leading technical project management teams,EXPERIENCE_IN
+4+ years,network engineering,EXPERIENCE_IN
+4+ years,optical transport,EXPERIENCE_IN
+4+ years,physical IT,EXPERIENCE_IN
+4+ years,financial management,EXPERIENCE_IN
+4+ years,Photonics,EXPERIENCE_IN
+4+ years,fiber optics,EXPERIENCE_IN
+4+ years,.,EXPERIENCE_IN
+8+ years,f inancial management,EXPERIENCE_IN
+8+ years,business planning,EXPERIENCE_IN
+8+ years,Business analytics,EXPERIENCE_IN
+8+ years,verbal,EXPERIENCE_IN
+8+ years,.,EXPERIENCE_IN
+Bachelors,Engineering,DEGREE_IN
+Bachelors,Computer Science,DEGREE_IN
+3 years,compute,EXPERIENCE_IN
+3 years,ARM,EXPERIENCE_IN
+3 years,storage,EXPERIENCE_IN
+3 years,SAS,EXPERIENCE_IN
+3 years,AI-ML hardware,EXPERIENCE_IN
+3 years,GPUs & TPUs,EXPERIENCE_IN
+3 years,data center network hardware,EXPERIENCE_IN
+3 years,switching,EXPERIENCE_IN
+3 years,fabric,EXPERIENCE_IN
+3 years,interconnect technologies,EXPERIENCE_IN
+3 years,"- Optics, DAC",EXPERIENCE_IN
+3 years,power,EXPERIENCE_IN
+3 years,PSU,EXPERIENCE_IN
+3 years,battery backup units,EXPERIENCE_IN
+3 years,ASIC development,EXPERIENCE_IN
+3 years,characterization,EXPERIENCE_IN
+3 years,Linux,EXPERIENCE_IN
+3 years,scripting,EXPERIENCE_IN
+3 years,changing system configurations,EXPERIENCE_IN
+3 years,measuring change impact,EXPERIENCE_IN
+3 years,server architecture,EXPERIENCE_IN
+2+ years,"- Optics, DAC",EXPERIENCE_IN
+2+ years,Linux,EXPERIENCE_IN
+2+ years,scripting,EXPERIENCE_IN
+2+ years,server architecture,EXPERIENCE_IN
+2+ years,scripting automation,EXPERIENCE_IN
+2+ years,Python,EXPERIENCE_IN
+2+ years,PHP,EXPERIENCE_IN
+2+ years,Perl,EXPERIENCE_IN
+10+ years,leadership,EXPERIENCE_IN
+10+ years,management,EXPERIENCE_IN
+10+ years,present,EXPERIENCE_IN
+10+ years,negotiate,EXPERIENCE_IN
+5+ years,coding,EXPERIENCE_IN
+5+ years,C++,EXPERIENCE_IN
+5+ years,Java,EXPERIENCE_IN
+5+ years,PHP,EXPERIENCE_IN
+5+ years,recruiting and managing technical teams,EXPERIENCE_IN
+5+ years,performance management,EXPERIENCE_IN
+BA/BS,Computer Science,DEGREE_IN
+5+ years,coding,EXPERIENCE_IN
+5+ years,C++,EXPERIENCE_IN
+5+ years,Java,EXPERIENCE_IN
+5+ years,PHP,EXPERIENCE_IN
+5+ years,recruit and manage technical teams,EXPERIENCE_IN
+5+ years,performance management,EXPERIENCE_IN
+5+ years,people management,EXPERIENCE_IN
+BA/BS,Computer Science,DEGREE_IN
+2+ years,people management,EXPERIENCE_IN
+3-5 years,design,EXPERIENCE_IN
+3-5 years,code,EXPERIENCE_IN
+3-5 years,test,EXPERIENCE_IN
+3-5 years,debug,EXPERIENCE_IN
+3-5 years,.,EXPERIENCE_IN
+3-4 years,Scrum,EXPERIENCE_IN
+3-4 years,Kanban,EXPERIENCE_IN
+3-4 years,SAFe,EXPERIENCE_IN
+3-4 years,eXtreme programming,EXPERIENCE_IN
+3-4 years,.,EXPERIENCE_IN
+1 year,High School Diploma or,EXPERIENCE_IN
+1 year,supporting IT equipment,EXPERIENCE_IN
+1 year,support frequent standing,EXPERIENCE_IN
+1 year,Network Certifications,EXPERIENCE_IN
+Technical College degree,Computer Science,DEGREE_IN
+Technical College degree,Math,DEGREE_IN
+Technical College degree,Telecommunications,DEGREE_IN
+Bachelors,Electrical Engineering,DEGREE_IN
+Bachelors,Mechanical Engineering,DEGREE_IN
+Bachelors,Material Science,DEGREE_IN
+8+ years,test engineer,EXPERIENCE_IN
+8+ years,consumer electronics,EXPERIENCE_IN
+3+ years,Swift,EXPERIENCE_IN
+3+ years,Objective-,EXPERIENCE_IN
+3+ years,C,EXPERIENCE_IN
+3+ years,iOS internals,EXPERIENCE_IN
+3+ years,building an entire app,EXPERIENCE_IN
+3+ years,featured,EXPERIENCE_IN
+3+ years,network communication,EXPERIENCE_IN
+3+ years,memory/battery,EXPERIENCE_IN
+Bachelor,Computer Science,DEGREE_IN
+2+ years,.,EXPERIENCE_IN
+5 years,Datacenter,EXPERIENCE_IN
+5 years,critical environment facility,EXPERIENCE_IN
+5 years,operation of building cooling,EXPERIENCE_IN
+5 years,electrical,EXPERIENCE_IN
+5 years,mechanical,EXPERIENCE_IN
+5 years,life safety systems,EXPERIENCE_IN
+5 years,Electrical,EXPERIENCE_IN
+5 years,Power Monitoring Systems (EPMS),EXPERIENCE_IN
+5 years,Branch Circuit Monitoring (BCM),EXPERIENCE_IN
+5 years,Building Automation Systems (BAS),EXPERIENCE_IN
+5 years,Battery Monitoring Systems (BMS),EXPERIENCE_IN
+Bachelors,mechanical,DEGREE_IN
+Bachelors,electrical engineering,DEGREE_IN
+Technical College certification,mechanical,DEGREE_IN
+2+ years,applied knowledge,EXPERIENCE_IN
+2+ years,software development,EXPERIENCE_IN
+1+ years,applied knowledge,EXPERIENCE_IN
+1+ years,software development,EXPERIENCE_IN
+1+ years,Python,EXPERIENCE_IN
+1+ years,Spark,EXPERIENCE_IN
+1+ years,Scala,EXPERIENCE_IN
+1+ years,SQL,EXPERIENCE_IN
+1+ years,.,EXPERIENCE_IN
+Bachelors,Computer Science,DEGREE_IN
+Bachelors,Engineering,DEGREE_IN
+Bachelors,Elastic Search,DEGREE_IN
+Bachelors,Computer Science,DEGREE_IN
+Bachelors,Engineering,DEGREE_IN
+.,Computer Science,DEGREE_IN
+.,Engineering,DEGREE_IN
+1+ years,development,EXPERIENCE_IN
+1+ years,Java stack,EXPERIENCE_IN
+1+ years,AppConnect,EXPERIENCE_IN
+1+ years,API,EXPERIENCE_IN
+3+ yrs,customer focus,EXPERIENCE_IN
+3+ yrs,collaboration,EXPERIENCE_IN
+3+ yrs,high-tech industry,EXPERIENCE_IN
+3+ yrs,C++,EXPERIENCE_IN
+Bachelors,Computer Science,DEGREE_IN
+5+ years,d ev elopment,EXPERIENCE_IN
+2+ years,managing,EXPERIENCE_IN
+2+ years,networking,EXPERIENCE_IN
+2+ years,software engineering,EXPERIENCE_IN
+2+ years,network-wide analytics/design,EXPERIENCE_IN
+2+ years,control systems,EXPERIENCE_IN
+2+ years,performance management,EXPERIENCE_IN
+BS or MS,Computer Science,DEGREE_IN
+BS or MS,Engineering,DEGREE_IN
+BS or MS,Communications,DEGREE_IN
+6+ years,financial analysis,EXPERIENCE_IN
+6+ years,supply chain,EXPERIENCE_IN
+6+ years,financial analysis,EXPERIENCE_IN
+Bachelors,Finance,DEGREE_IN
+Bachelors,Accounting,DEGREE_IN
+Bachelors,Economics,DEGREE_IN
+Bachelors,Business Administration,DEGREE_IN
+Bachelors,Math,DEGREE_IN
+.,manage multiple projects,EXPERIENCE_IN
+10+ years,managing,EXPERIENCE_IN
+10+ years,networking,EXPERIENCE_IN
+10+ years,distributed engineering,EXPERIENCE_IN
+10+ years,networking,EXPERIENCE_IN
+10+ years,network-wide analytics/design,EXPERIENCE_IN
+10+ years,control systems,EXPERIENCE_IN
+10+ years,(SDN,EXPERIENCE_IN
+10+ years,managing technical teams,EXPERIENCE_IN
+10+ years,performance management,EXPERIENCE_IN
+10+ years,managing engineers,EXPERIENCE_IN
+BS or MS,Computer Science,DEGREE_IN
+BS or MS,Engineering,DEGREE_IN
+Degree,Computer Science,DEGREE_IN
+2+ years,industry,EXPERIENCE_IN
+2+ years,designing,EXPERIENCE_IN
+2+ years,implementing,EXPERIENCE_IN
+2+ years,verifying,EXPERIENCE_IN
+2+ years,reviewing security-related items,EXPERIENCE_IN
+2+ years,development,EXPERIENCE_IN
+2+ years,architecture,EXPERIENCE_IN
+2+ years,analyzing,EXPERIENCE_IN
+2+ years,auditing Android,EXPERIENCE_IN
+2+ years,Java,EXPERIENCE_IN
+2+ years,C/C++,EXPERIENCE_IN
+Masters,Computer science,DEGREE_IN
+/,applied cryptography,EXPERIENCE_IN
+/,key management systems,EXPERIENCE_IN
+/,C,EXPERIENCE_IN
+5+ years,cloud infrastructure,EXPERIENCE_IN
+5+ years,Networking,EXPERIENCE_IN
+5+ years,containers,EXPERIENCE_IN
+5+ years,infrastructure deployments,EXPERIENCE_IN
+5+ years,consultative,EXPERIENCE_IN
+5+ years,complex technical sales,EXPERIENCE_IN
+5+ years,deployment projects,EXPERIENCE_IN
+5+ years,resolving conflicts,EXPERIENCE_IN
+5+ years,Presentation,EXPERIENCE_IN
+5+ years,IT management,EXPERIENCE_IN
+Bachelor,Computer Science,DEGREE_IN
+Bachelor,Amazon,DEGREE_IN
+Bachelors,Electrical Engineering,DEGREE_IN
+Bachelors,Computer Networks,DEGREE_IN
+Masters,Bachelors,DEGREE_IN
+Masters,Electrical Engineering,DEGREE_IN
+Masters,Computer Networks,DEGREE_IN
+5+ years,Switch Board,EXPERIENCE_IN
+5+ years,validation,EXPERIENCE_IN
+5+ years,characterization,EXPERIENCE_IN
+5+ years,.,EXPERIENCE_IN
+5+ years,industry,EXPERIENCE_IN
+5+ years,commercial software,EXPERIENCE_IN
+Undergraduate,Computer Science,DEGREE_IN
+Graduate,Computer Science,DEGREE_IN
+Bachelors,Computer Science,DEGREE_IN
+Bachelors,Computer Engineering,DEGREE_IN
+.,C++,EXPERIENCE_IN
+5+ years,technical management,EXPERIENCE_IN
+5+ years,coding,EXPERIENCE_IN
+5+ years,C++,EXPERIENCE_IN
+5+ years,Java,EXPERIENCE_IN
+5+ years,PHP,EXPERIENCE_IN
+5+ years,recruit and manage technical teams,EXPERIENCE_IN
+5+ years,performance management,EXPERIENCE_IN
+BA/BS,Computer Science,DEGREE_IN
+3+plus years,cloud application development,EXPERIENCE_IN
+3+plus years,JavaScript,EXPERIENCE_IN
+3+plus years,Node.js,EXPERIENCE_IN
+3+plus years,REST services,EXPERIENCE_IN
+3+plus years,HTML,EXPERIENCE_IN
+3+plus years,CSS,EXPERIENCE_IN
+3+plus years,Java,EXPERIENCE_IN
+3+plus years,J2EE,EXPERIENCE_IN
+3+plus years,Tech,EXPERIENCE_IN
+3+plus years,Prof,EXPERIENCE_IN
+3+plus years,.,EXPERIENCE_IN
+12+ years,Cloud domain architecture,EXPERIENCE_IN
+12+ years,Cloud Computing Solutions,EXPERIENCE_IN
+12+ years,High Performance Services,EXPERIENCE_IN
+12+ years,Open Source,EXPERIENCE_IN
+12+ years,Design,EXPERIENCE_IN
+12+ years,cloud management,EXPERIENCE_IN
+12+ years,orchestration,EXPERIENCE_IN
+12+ years,.,EXPERIENCE_IN
+.,Cloud Platform products,EXPERIENCE_IN
+.,architectural patterns,EXPERIENCE_IN
+BS,Electrical Engineering,DEGREE_IN
+5+ years,consumer electronics,EXPERIENCE_IN
+5+ years,power,EXPERIENCE_IN
+5+ years,sensors,EXPERIENCE_IN
+5+ years,display,EXPERIENCE_IN
+5+ years,audio,EXPERIENCE_IN
+5+ years,camera,EXPERIENCE_IN
+Masters,Electrical Engineering,DEGREE_IN
+Bachelors,Computer Science,DEGREE_IN
+Bachelors,Electrical Engineering,DEGREE_IN
+Bachelors,Robotics,DEGREE_IN
+Bachelors,Mechanical Engineering,DEGREE_IN
+5+ years,developing test solution,EXPERIENCE_IN
+5+ years,consumer electronics,EXPERIENCE_IN
+5+ years,.,EXPERIENCE_IN
+B.S.,technical discipline,DEGREE_IN
+4+ years,supporting Hardware Engineering,EXPERIENCE_IN
+2+ years,Program Management,EXPERIENCE_IN
+2+ years,Product Management,EXPERIENCE_IN
+.,Prof,EXPERIENCE_IN
+.,Atlassian,EXPERIENCE_IN
+.,JIRA,EXPERIENCE_IN
+.,workflow/ process development,EXPERIENCE_IN
+3+ years,development,EXPERIENCE_IN
+3+ years,communication skills,EXPERIENCE_IN
+.,advanced compute,EXPERIENCE_IN
+.,memory systems,EXPERIENCE_IN
+.,white papers,EXPERIENCE_IN
+PhD or MSc,Computer science,DEGREE_IN
+PhD or MSc,Computer engineering,DEGREE_IN
+PhD or MSc,Electrical engineering,DEGREE_IN
+PhD or MSc,.,DEGREE_IN
+BS,Computer Science,DEGREE_IN
+BS,Math,DEGREE_IN
+BS,Physics,DEGREE_IN
+BS,EE,DEGREE_IN
+10+ years,C,EXPERIENCE_IN
+10+ years,Objective,EXPERIENCE_IN
+10+ years,C,EXPERIENCE_IN
+10+ years,Java,EXPERIENCE_IN
+10+ years,HTML,EXPERIENCE_IN
+10+ years,CSS,EXPERIENCE_IN
+10+ years,JS,EXPERIENCE_IN
+.,organize,EXPERIENCE_IN
+.,manage complex technical products,EXPERIENCE_IN
+.,product,EXPERIENCE_IN
+.,technical,EXPERIENCE_IN
+8+ years,program management,EXPERIENCE_IN
+8+ years,product management,EXPERIENCE_IN
+3+ years,program management,EXPERIENCE_IN
+3+ years,product management,EXPERIENCE_IN
+3+ years,people management,EXPERIENCE_IN
+3+ years,people management,EXPERIENCE_IN
+3+ years,.,EXPERIENCE_IN
+BS or MS,Computer Science,DEGREE_IN
+BS or MS,Engineering,DEGREE_IN
+MS,computer science,DEGREE_IN
+MS,math,DEGREE_IN
+MS,physics,DEGREE_IN
+MS,statistics,DEGREE_IN
+2years experience,programming,EXPERIENCE_IN
+2years experience,C,EXPERIENCE_IN
+2years experience,C++,EXPERIENCE_IN
+/,programming,EXPERIENCE_IN
+/,C,EXPERIENCE_IN
+5+ years,hardware development,EXPERIENCE_IN
+5+ years,network equipment field,EXPERIENCE_IN
+5+ years,switch,EXPERIENCE_IN
+5+ years,router,EXPERIENCE_IN
+5+ years,transport,EXPERIENCE_IN
+5+ years,.,EXPERIENCE_IN
+.,delivering engineering solutions,EXPERIENCE_IN
+10+ years,network hardware technology,EXPERIENCE_IN
+10+ years,supply chain,EXPERIENCE_IN
+10+ years,operations engagement,EXPERIENCE_IN
+10+ years,managing overall supplier performance,EXPERIENCE_IN
+10+ years,.,EXPERIENCE_IN
+.,network hardware technology,EXPERIENCE_IN
+.,supply chain,EXPERIENCE_IN
+.,operations engagement,EXPERIENCE_IN
+.,managing overall supplier performance,EXPERIENCE_IN
+5 years,Datacenter,EXPERIENCE_IN
+5 years,critical environment facility,EXPERIENCE_IN
+5 years,operation of building cooling,EXPERIENCE_IN
+5 years,electrical,EXPERIENCE_IN
+5 years,mechanical,EXPERIENCE_IN
+5 years,life safety systems,EXPERIENCE_IN
+5 years,Electrical,EXPERIENCE_IN
+5 years,Power Monitoring Systems (EPMS),EXPERIENCE_IN
+5 years,Branch Circuit Monitoring (BCM),EXPERIENCE_IN
+5 years,Building Automation Systems (BAS),EXPERIENCE_IN
+5 years,Battery Monitoring Systems (BMS),EXPERIENCE_IN
+5 years,CE projects,EXPERIENCE_IN
+Bachelors,mechanical,DEGREE_IN
+Bachelors,electrical engineering,DEGREE_IN
+Technical,mechanical,DEGREE_IN
+BS,Computer Science,DEGREE_IN
+2+ years,technology industry,EXPERIENCE_IN
+2+ years,C++,EXPERIENCE_IN
+2+ years,Objective-,EXPERIENCE_IN
+2+ years,C,EXPERIENCE_IN
+2+ years,ReactNative,EXPERIENCE_IN
+Bachelors,Computer Science,DEGREE_IN
+Bachelors,.,DEGREE_IN
+5+ years,delivering solutions,EXPERIENCE_IN
+2+ years,delivering solutions,EXPERIENCE_IN
+2+ years,managing,EXPERIENCE_IN
+2+ years,leading highly technical teams,EXPERIENCE_IN
+.,delivering solutions,EXPERIENCE_IN
+.,managing,EXPERIENCE_IN
+.,leading highly technical teams,EXPERIENCE_IN
+Data Platform,Azure Core Platform,EXPERIENCE_IN
+Data Platform,Azure DB,EXPERIENCE_IN
+BS/BA,Electrical/Mechanical Engineering,DEGREE_IN
+BS/BA,Computer Science,DEGREE_IN
+BS/BA,Math,DEGREE_IN
+BS/BA,Telecommunications,DEGREE_IN
+4+ years,leading technical project management teams,EXPERIENCE_IN
+4+ years,network engineering,EXPERIENCE_IN
+4+ years,optical transport,EXPERIENCE_IN
+4+ years,physical IT,EXPERIENCE_IN
+4+ years,financial management,EXPERIENCE_IN
+4+ years,Photonics,EXPERIENCE_IN
+4+ years,fiber optics,EXPERIENCE_IN
+4+ years,.,EXPERIENCE_IN
+.,virtualization,EXPERIENCE_IN
+8+ years,Python,EXPERIENCE_IN
+8+ years,Go,EXPERIENCE_IN
+8+ years,C++,EXPERIENCE_IN
+BS,Electrical Engineering,DEGREE_IN
+BS,Computer Engineering,DEGREE_IN
+.,Electrical Engineering,DEGREE_IN
+3+ years,PCB design,EXPERIENCE_IN
+3+ years,integrated,EXPERIENCE_IN
+3+ years,discrete circuits,EXPERIENCE_IN
+3+ years,high-speed interfaces,EXPERIENCE_IN
+3+ years,.,EXPERIENCE_IN
+.,software,EXPERIENCE_IN
+5+ years,managing,EXPERIENCE_IN
+5+ years,engineering solutions,EXPERIENCE_IN
+5+ years,SQL Server,EXPERIENCE_IN
+5+ years,Azure SQL,EXPERIENCE_IN
+5+ years,Highly Available (HA),EXPERIENCE_IN
+5+ years,.,EXPERIENCE_IN
+BA/BS/MS,CS,DEGREE_IN
+.,CS,DEGREE_IN
+BS/MS,Computer Science,DEGREE_IN
+BS/MS,web,DEGREE_IN
+2+ years,Java,EXPERIENCE_IN
+2+ years,C++,EXPERIENCE_IN
+2+ years,C,EXPERIENCE_IN
+2+ years,#,EXPERIENCE_IN
+2+ years,C,EXPERIENCE_IN
+2+ years,object-oriented programming language,EXPERIENCE_IN
+2+ years,coding,EXPERIENCE_IN
+2+ years,debugging,EXPERIENCE_IN
+2+ years,problem-solving,EXPERIENCE_IN
+2+ years,object-oriented programming,EXPERIENCE_IN
+2+ years,communication,EXPERIENCE_IN
+2+ years,distributed systems,EXPERIENCE_IN
+2+ years,big data technologies,EXPERIENCE_IN

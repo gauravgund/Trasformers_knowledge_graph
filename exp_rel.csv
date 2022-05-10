@@ -1,0 +1,461 @@
+id,experience,skill,relation
+1,.,design,EXPERIENCE_IN
+2,1+ years,development,EXPERIENCE_IN
+3,1+ years,Java stack,EXPERIENCE_IN
+4,1+ years,AppConnect,EXPERIENCE_IN
+5,1+ years,API,EXPERIENCE_IN
+6,3+ years,productivity software tools,EXPERIENCE_IN
+7,3+ years,modeling tools,EXPERIENCE_IN
+8,3+ years,oral,EXPERIENCE_IN
+9,3+ years,customer interaction,EXPERIENCE_IN
+10,3+ years,Healthcare Information Systems,EXPERIENCE_IN
+11,3+ years,Design,EXPERIENCE_IN
+12,3+ years,Tech,EXPERIENCE_IN
+13,3+ years,Prof,EXPERIENCE_IN
+14,3+ years,software development,EXPERIENCE_IN
+15,3+ years,.,EXPERIENCE_IN
+16,.,productivity software tools,EXPERIENCE_IN
+17,.,modeling tools,EXPERIENCE_IN
+18,.,oral,EXPERIENCE_IN
+19,.,written communication,EXPERIENCE_IN
+20,.,customer interaction,EXPERIENCE_IN
+21,.,Healthcare Information Systems,EXPERIENCE_IN
+22,.,Practice Management,EXPERIENCE_IN
+23,.,Design,EXPERIENCE_IN
+24,.,Tech,EXPERIENCE_IN
+25,.,Prof,EXPERIENCE_IN
+26,.,software development,EXPERIENCE_IN
+27,3 to 6 years,Capacity Planning,EXPERIENCE_IN
+28,3 to 6 years,Supply planning,EXPERIENCE_IN
+29,3 to 6 years,supply-demand balancing,EXPERIENCE_IN
+30,3 to 6 years,supply planning,EXPERIENCE_IN
+31,.,complex product,EXPERIENCE_IN
+32,.,supply chain,EXPERIENCE_IN
+33,3-5 years,integration,EXPERIENCE_IN
+34,3-5 years,product development,EXPERIENCE_IN
+35,3-5 years,integration,EXPERIENCE_IN
+36,3-5 years,.,EXPERIENCE_IN
+37,.,Oracle,EXPERIENCE_IN
+38,8+ years,designing,EXPERIENCE_IN
+39,8+ years,developing enterprise-level scale services/solutions,EXPERIENCE_IN
+40,2+ years,designing secure,EXPERIENCE_IN
+41,2+ years,PaaS services,EXPERIENCE_IN
+42,2+ years,Microsoft Azure,EXPERIENCE_IN
+43,2+ years,.,EXPERIENCE_IN
+44,5+ years,delivering solutions,EXPERIENCE_IN
+45,2+ years,delivering solutions,EXPERIENCE_IN
+46,2+ years,managing,EXPERIENCE_IN
+47,2+ years,leading highly technical teams,EXPERIENCE_IN
+48,.,delivering solutions,EXPERIENCE_IN
+49,.,managing,EXPERIENCE_IN
+50,.,leading highly technical teams,EXPERIENCE_IN
+51,Data Platform,Azure Core Platform,EXPERIENCE_IN
+52,Data Platform,Azure DB,EXPERIENCE_IN
+53,5+ years,Python,EXPERIENCE_IN
+54,5+ years,Go,EXPERIENCE_IN
+55,5+ years,C++,EXPERIENCE_IN
+56,5+ years,.,EXPERIENCE_IN
+57,7+ years,enterprise technology consulting,EXPERIENCE_IN
+58,7+ years,direct customer,EXPERIENCE_IN
+59,7+ years,SAP NetWeaver platform,EXPERIENCE_IN
+60,7+ years,deployment,EXPERIENCE_IN
+61,7+ years,transport management,EXPERIENCE_IN
+62,7+ years,NetWeaver architecture,EXPERIENCE_IN
+63,7+ years,DBMS,EXPERIENCE_IN
+64,3+ years,deployment,EXPERIENCE_IN
+65,3+ years,transport management,EXPERIENCE_IN
+66,3+ years,NetWeaver architecture,EXPERIENCE_IN
+67,3+ years,DBMS,EXPERIENCE_IN
+68,3+ years,RDBMS,EXPERIENCE_IN
+69,3+ years,performance query analysis,EXPERIENCE_IN
+70,3+ years,sizing,EXPERIENCE_IN
+71,3+ years,HA/DR,EXPERIENCE_IN
+72,3+ years,storage/disk design,EXPERIENCE_IN
+73,3+ years,HANA,EXPERIENCE_IN
+74,3+ years,SQL Server,EXPERIENCE_IN
+75,3+ years,Oracle,EXPERIENCE_IN
+76,3+ years,Sybase,EXPERIENCE_IN
+77,3+ years,DB2,EXPERIENCE_IN
+78,3+ years,MaxDB,EXPERIENCE_IN
+79,3+ years,SUSE,EXPERIENCE_IN
+80,3+ years,monitoring,EXPERIENCE_IN
+81,3+ years,management,EXPERIENCE_IN
+82,3+ years,articulate value proposition,EXPERIENCE_IN
+83,3-8 years,partner management,EXPERIENCE_IN
+84,3-8 years,account management,EXPERIENCE_IN
+85,.,partner management,EXPERIENCE_IN
+86,.,account management,EXPERIENCE_IN
+87,.,ICT,EXPERIENCE_IN
+88,.,partner ecosystems,EXPERIENCE_IN
+89,.,sales management,EXPERIENCE_IN
+90,.,sales plans,EXPERIENCE_IN
+91,.,navigate complex customer environments,EXPERIENCE_IN
+92,5+ years,software engineering,EXPERIENCE_IN
+93,5+ years,coding,EXPERIENCE_IN
+94,5+ years,C,EXPERIENCE_IN
+95,5+ years,C++,EXPERIENCE_IN
+96,5+ years,Java,EXPERIENCE_IN
+97,5+ years,database systems,EXPERIENCE_IN
+98,5 plus years,Full-stack development,EXPERIENCE_IN
+99,5 plus years,Node.js,EXPERIENCE_IN
+100,5 plus years,Java,EXPERIENCE_IN
+101,5 plus years,JavaScript,EXPERIENCE_IN
+102,5 plus years,Database,EXPERIENCE_IN
+103,5 plus years,object-oriented design,EXPERIENCE_IN
+104,5 plus years,data structures,EXPERIENCE_IN
+105,5 plus years,.,EXPERIENCE_IN
+106,3 plus years,container orchestration,EXPERIENCE_IN
+107,3 plus years,iOS,EXPERIENCE_IN
+108,3 plus years,Swift,EXPERIENCE_IN
+109,3 plus years,Objective,EXPERIENCE_IN
+110,3 plus years,-,EXPERIENCE_IN
+111,3 plus years,C,EXPERIENCE_IN
+112,3 plus years,iOS,EXPERIENCE_IN
+113,3 plus years,.,EXPERIENCE_IN
+114,4+ years,product management,EXPERIENCE_IN
+115,2+ years,product management,EXPERIENCE_IN
+116,2+ years,making hardware products,EXPERIENCE_IN
+117,.,managing multiple ongoing projects,EXPERIENCE_IN
+118,6+ years,supply chain,EXPERIENCE_IN
+119,6+ years,.,EXPERIENCE_IN
+120,.,time management,EXPERIENCE_IN
+121,.,Supply Chain Management,EXPERIENCE_IN
+122,5+ years,technical management,EXPERIENCE_IN
+123,5+ years,coding,EXPERIENCE_IN
+124,5+ years,C++,EXPERIENCE_IN
+125,5+ years,Java,EXPERIENCE_IN
+126,5+ years,PHP,EXPERIENCE_IN
+127,5+ years,recruiting and managing,EXPERIENCE_IN
+128,5+ years,performance management,EXPERIENCE_IN
+129,4+ years,performance management,EXPERIENCE_IN
+130,.,design,EXPERIENCE_IN
+131,.,organize,EXPERIENCE_IN
+132,.,manage complex technical products,EXPERIENCE_IN
+133,.,product,EXPERIENCE_IN
+134,.,technical,EXPERIENCE_IN
+135,8+ years,program management,EXPERIENCE_IN
+136,8+ years,product management,EXPERIENCE_IN
+137,3+ years,program management,EXPERIENCE_IN
+138,3+ years,product management,EXPERIENCE_IN
+139,3+ years,people management,EXPERIENCE_IN
+140,3+ years,people management,EXPERIENCE_IN
+141,3+ years,.,EXPERIENCE_IN
+142,5+ years,technical management,EXPERIENCE_IN
+143,5+ years,authentication systems,EXPERIENCE_IN
+144,5+ years,performance management,EXPERIENCE_IN
+145,4+ years,leading technical project management teams,EXPERIENCE_IN
+146,4+ years,network engineering,EXPERIENCE_IN
+147,4+ years,optical transport,EXPERIENCE_IN
+148,4+ years,physical IT,EXPERIENCE_IN
+149,4+ years,financial management,EXPERIENCE_IN
+150,4+ years,Photonics,EXPERIENCE_IN
+151,4+ years,fiber optics,EXPERIENCE_IN
+152,4+ years,.,EXPERIENCE_IN
+153,8+ years,f inancial management,EXPERIENCE_IN
+154,8+ years,business planning,EXPERIENCE_IN
+155,8+ years,Business analytics,EXPERIENCE_IN
+156,8+ years,verbal,EXPERIENCE_IN
+157,8+ years,.,EXPERIENCE_IN
+158,3 years,compute,EXPERIENCE_IN
+159,3 years,ARM,EXPERIENCE_IN
+160,3 years,storage,EXPERIENCE_IN
+161,3 years,SAS,EXPERIENCE_IN
+162,3 years,AI-ML hardware,EXPERIENCE_IN
+163,3 years,GPUs & TPUs,EXPERIENCE_IN
+164,3 years,data center network hardware,EXPERIENCE_IN
+165,3 years,switching,EXPERIENCE_IN
+166,3 years,fabric,EXPERIENCE_IN
+167,3 years,interconnect technologies,EXPERIENCE_IN
+168,3 years,#NAME?,EXPERIENCE_IN
+169,3 years,power,EXPERIENCE_IN
+170,3 years,PSU,EXPERIENCE_IN
+171,3 years,battery backup units,EXPERIENCE_IN
+172,3 years,ASIC development,EXPERIENCE_IN
+173,3 years,characterization,EXPERIENCE_IN
+174,3 years,Linux,EXPERIENCE_IN
+175,3 years,scripting,EXPERIENCE_IN
+176,3 years,changing system configurations,EXPERIENCE_IN
+177,3 years,measuring change impact,EXPERIENCE_IN
+178,3 years,server architecture,EXPERIENCE_IN
+179,2+ years,#NAME?,EXPERIENCE_IN
+180,2+ years,Linux,EXPERIENCE_IN
+181,2+ years,scripting,EXPERIENCE_IN
+182,2+ years,server architecture,EXPERIENCE_IN
+183,2+ years,scripting automation,EXPERIENCE_IN
+184,2+ years,Python,EXPERIENCE_IN
+185,2+ years,PHP,EXPERIENCE_IN
+186,2+ years,Perl,EXPERIENCE_IN
+187,10+ years,leadership,EXPERIENCE_IN
+188,10+ years,management,EXPERIENCE_IN
+189,10+ years,present,EXPERIENCE_IN
+190,10+ years,negotiate,EXPERIENCE_IN
+191,5+ years,coding,EXPERIENCE_IN
+192,5+ years,C++,EXPERIENCE_IN
+193,5+ years,Java,EXPERIENCE_IN
+194,5+ years,PHP,EXPERIENCE_IN
+195,5+ years,recruiting and managing technical teams,EXPERIENCE_IN
+196,5+ years,performance management,EXPERIENCE_IN
+197,5+ years,coding,EXPERIENCE_IN
+198,5+ years,C++,EXPERIENCE_IN
+199,5+ years,Java,EXPERIENCE_IN
+200,5+ years,PHP,EXPERIENCE_IN
+201,5+ years,recruit and manage technical teams,EXPERIENCE_IN
+202,5+ years,performance management,EXPERIENCE_IN
+203,5+ years,people management,EXPERIENCE_IN
+204,2+ years,people management,EXPERIENCE_IN
+205,3-5 years,design,EXPERIENCE_IN
+206,3-5 years,code,EXPERIENCE_IN
+207,3-5 years,test,EXPERIENCE_IN
+208,3-5 years,debug,EXPERIENCE_IN
+209,3-5 years,.,EXPERIENCE_IN
+210,3-4 years,Scrum,EXPERIENCE_IN
+211,3-4 years,Kanban,EXPERIENCE_IN
+212,3-4 years,SAFe,EXPERIENCE_IN
+213,3-4 years,eXtreme programming,EXPERIENCE_IN
+214,3-4 years,.,EXPERIENCE_IN
+215,1 year,High School Diploma or,EXPERIENCE_IN
+216,1 year,supporting IT equipment,EXPERIENCE_IN
+217,1 year,support frequent standing,EXPERIENCE_IN
+218,1 year,Network Certifications,EXPERIENCE_IN
+219,8+ years,test engineer,EXPERIENCE_IN
+220,8+ years,consumer electronics,EXPERIENCE_IN
+221,3+ years,Swift,EXPERIENCE_IN
+222,3+ years,Objective-,EXPERIENCE_IN
+223,3+ years,C,EXPERIENCE_IN
+224,3+ years,iOS internals,EXPERIENCE_IN
+225,3+ years,building an entire app,EXPERIENCE_IN
+226,3+ years,featured,EXPERIENCE_IN
+227,3+ years,network communication,EXPERIENCE_IN
+228,3+ years,memory/battery,EXPERIENCE_IN
+229,2+ years,.,EXPERIENCE_IN
+230,5 years,Datacenter,EXPERIENCE_IN
+231,5 years,critical environment facility,EXPERIENCE_IN
+232,5 years,operation of building cooling,EXPERIENCE_IN
+233,5 years,electrical,EXPERIENCE_IN
+234,5 years,mechanical,EXPERIENCE_IN
+235,5 years,life safety systems,EXPERIENCE_IN
+236,5 years,Electrical,EXPERIENCE_IN
+237,5 years,Power Monitoring Systems (EPMS),EXPERIENCE_IN
+238,5 years,Branch Circuit Monitoring (BCM),EXPERIENCE_IN
+239,5 years,Building Automation Systems (BAS),EXPERIENCE_IN
+240,5 years,Battery Monitoring Systems (BMS),EXPERIENCE_IN
+241,2+ years,applied knowledge,EXPERIENCE_IN
+242,2+ years,software development,EXPERIENCE_IN
+243,1+ years,applied knowledge,EXPERIENCE_IN
+244,1+ years,software development,EXPERIENCE_IN
+245,1+ years,Python,EXPERIENCE_IN
+246,1+ years,Spark,EXPERIENCE_IN
+247,1+ years,Scala,EXPERIENCE_IN
+248,1+ years,SQL,EXPERIENCE_IN
+249,1+ years,.,EXPERIENCE_IN
+250,1+ years,development,EXPERIENCE_IN
+251,1+ years,Java stack,EXPERIENCE_IN
+252,1+ years,AppConnect,EXPERIENCE_IN
+253,1+ years,API,EXPERIENCE_IN
+254,3+ yrs,customer focus,EXPERIENCE_IN
+255,3+ yrs,collaboration,EXPERIENCE_IN
+256,3+ yrs,high-tech industry,EXPERIENCE_IN
+257,3+ yrs,C++,EXPERIENCE_IN
+258,5+ years,d ev elopment,EXPERIENCE_IN
+259,2+ years,managing,EXPERIENCE_IN
+260,2+ years,networking,EXPERIENCE_IN
+261,2+ years,software engineering,EXPERIENCE_IN
+262,2+ years,network-wide analytics/design,EXPERIENCE_IN
+263,2+ years,control systems,EXPERIENCE_IN
+264,2+ years,performance management,EXPERIENCE_IN
+265,6+ years,financial analysis,EXPERIENCE_IN
+266,6+ years,supply chain,EXPERIENCE_IN
+267,6+ years,financial analysis,EXPERIENCE_IN
+268,.,manage multiple projects,EXPERIENCE_IN
+269,10+ years,managing,EXPERIENCE_IN
+270,10+ years,networking,EXPERIENCE_IN
+271,10+ years,distributed engineering,EXPERIENCE_IN
+272,10+ years,networking,EXPERIENCE_IN
+273,10+ years,network-wide analytics/design,EXPERIENCE_IN
+274,10+ years,control systems,EXPERIENCE_IN
+275,10+ years,(SDN,EXPERIENCE_IN
+276,10+ years,managing technical teams,EXPERIENCE_IN
+277,10+ years,performance management,EXPERIENCE_IN
+278,10+ years,managing engineers,EXPERIENCE_IN
+279,2+ years,industry,EXPERIENCE_IN
+280,2+ years,designing,EXPERIENCE_IN
+281,2+ years,implementing,EXPERIENCE_IN
+282,2+ years,verifying,EXPERIENCE_IN
+283,2+ years,reviewing security-related items,EXPERIENCE_IN
+284,2+ years,development,EXPERIENCE_IN
+285,2+ years,architecture,EXPERIENCE_IN
+286,2+ years,analyzing,EXPERIENCE_IN
+287,2+ years,auditing Android,EXPERIENCE_IN
+288,2+ years,Java,EXPERIENCE_IN
+289,2+ years,C/C++,EXPERIENCE_IN
+290,/,applied cryptography,EXPERIENCE_IN
+291,/,key management systems,EXPERIENCE_IN
+292,/,C,EXPERIENCE_IN
+293,5+ years,cloud infrastructure,EXPERIENCE_IN
+294,5+ years,Networking,EXPERIENCE_IN
+295,5+ years,containers,EXPERIENCE_IN
+296,5+ years,infrastructure deployments,EXPERIENCE_IN
+297,5+ years,consultative,EXPERIENCE_IN
+298,5+ years,complex technical sales,EXPERIENCE_IN
+299,5+ years,deployment projects,EXPERIENCE_IN
+300,5+ years,resolving conflicts,EXPERIENCE_IN
+301,5+ years,Presentation,EXPERIENCE_IN
+302,5+ years,IT management,EXPERIENCE_IN
+303,5+ years,Switch Board,EXPERIENCE_IN
+304,5+ years,validation,EXPERIENCE_IN
+305,5+ years,characterization,EXPERIENCE_IN
+306,5+ years,.,EXPERIENCE_IN
+307,5+ years,industry,EXPERIENCE_IN
+308,5+ years,commercial software,EXPERIENCE_IN
+309,.,C++,EXPERIENCE_IN
+310,5+ years,technical management,EXPERIENCE_IN
+311,5+ years,coding,EXPERIENCE_IN
+312,5+ years,C++,EXPERIENCE_IN
+313,5+ years,Java,EXPERIENCE_IN
+314,5+ years,PHP,EXPERIENCE_IN
+315,5+ years,recruit and manage technical teams,EXPERIENCE_IN
+316,5+ years,performance management,EXPERIENCE_IN
+317,3+plus years,cloud application development,EXPERIENCE_IN
+318,3+plus years,JavaScript,EXPERIENCE_IN
+319,3+plus years,Node.js,EXPERIENCE_IN
+320,3+plus years,REST services,EXPERIENCE_IN
+321,3+plus years,HTML,EXPERIENCE_IN
+322,3+plus years,CSS,EXPERIENCE_IN
+323,3+plus years,Java,EXPERIENCE_IN
+324,3+plus years,J2EE,EXPERIENCE_IN
+325,3+plus years,Tech,EXPERIENCE_IN
+326,3+plus years,Prof,EXPERIENCE_IN
+327,3+plus years,.,EXPERIENCE_IN
+328,12+ years,Cloud domain architecture,EXPERIENCE_IN
+329,12+ years,Cloud Computing Solutions,EXPERIENCE_IN
+330,12+ years,High Performance Services,EXPERIENCE_IN
+331,12+ years,Open Source,EXPERIENCE_IN
+332,12+ years,Design,EXPERIENCE_IN
+333,12+ years,cloud management,EXPERIENCE_IN
+334,12+ years,orchestration,EXPERIENCE_IN
+335,12+ years,.,EXPERIENCE_IN
+336,.,Cloud Platform products,EXPERIENCE_IN
+337,.,architectural patterns,EXPERIENCE_IN
+338,5+ years,consumer electronics,EXPERIENCE_IN
+339,5+ years,power,EXPERIENCE_IN
+340,5+ years,sensors,EXPERIENCE_IN
+341,5+ years,display,EXPERIENCE_IN
+342,5+ years,audio,EXPERIENCE_IN
+343,5+ years,camera,EXPERIENCE_IN
+344,5+ years,developing test solution,EXPERIENCE_IN
+345,5+ years,consumer electronics,EXPERIENCE_IN
+346,5+ years,.,EXPERIENCE_IN
+347,4+ years,supporting Hardware Engineering,EXPERIENCE_IN
+348,2+ years,Program Management,EXPERIENCE_IN
+349,2+ years,Product Management,EXPERIENCE_IN
+350,.,Prof,EXPERIENCE_IN
+351,.,Atlassian,EXPERIENCE_IN
+352,.,JIRA,EXPERIENCE_IN
+353,.,workflow/ process development,EXPERIENCE_IN
+354,3+ years,development,EXPERIENCE_IN
+355,3+ years,communication skills,EXPERIENCE_IN
+356,.,advanced compute,EXPERIENCE_IN
+357,.,memory systems,EXPERIENCE_IN
+358,.,white papers,EXPERIENCE_IN
+359,10+ years,C,EXPERIENCE_IN
+360,10+ years,Objective,EXPERIENCE_IN
+361,10+ years,C,EXPERIENCE_IN
+362,10+ years,Java,EXPERIENCE_IN
+363,10+ years,HTML,EXPERIENCE_IN
+364,10+ years,CSS,EXPERIENCE_IN
+365,10+ years,JS,EXPERIENCE_IN
+366,.,organize,EXPERIENCE_IN
+367,.,manage complex technical products,EXPERIENCE_IN
+368,.,product,EXPERIENCE_IN
+369,.,technical,EXPERIENCE_IN
+370,8+ years,program management,EXPERIENCE_IN
+371,8+ years,product management,EXPERIENCE_IN
+372,3+ years,program management,EXPERIENCE_IN
+373,3+ years,product management,EXPERIENCE_IN
+374,3+ years,people management,EXPERIENCE_IN
+375,3+ years,people management,EXPERIENCE_IN
+376,3+ years,.,EXPERIENCE_IN
+377,2years experience,programming,EXPERIENCE_IN
+378,2years experience,C,EXPERIENCE_IN
+379,2years experience,C++,EXPERIENCE_IN
+380,/,programming,EXPERIENCE_IN
+381,/,C,EXPERIENCE_IN
+382,5+ years,hardware development,EXPERIENCE_IN
+383,5+ years,network equipment field,EXPERIENCE_IN
+384,5+ years,switch,EXPERIENCE_IN
+385,5+ years,router,EXPERIENCE_IN
+386,5+ years,transport,EXPERIENCE_IN
+387,5+ years,.,EXPERIENCE_IN
+388,.,delivering engineering solutions,EXPERIENCE_IN
+389,10+ years,network hardware technology,EXPERIENCE_IN
+390,10+ years,supply chain,EXPERIENCE_IN
+391,10+ years,operations engagement,EXPERIENCE_IN
+392,10+ years,managing overall supplier performance,EXPERIENCE_IN
+393,10+ years,.,EXPERIENCE_IN
+394,.,network hardware technology,EXPERIENCE_IN
+395,.,supply chain,EXPERIENCE_IN
+396,.,operations engagement,EXPERIENCE_IN
+397,.,managing overall supplier performance,EXPERIENCE_IN
+398,5 years,Datacenter,EXPERIENCE_IN
+399,5 years,critical environment facility,EXPERIENCE_IN
+400,5 years,operation of building cooling,EXPERIENCE_IN
+401,5 years,electrical,EXPERIENCE_IN
+402,5 years,mechanical,EXPERIENCE_IN
+403,5 years,life safety systems,EXPERIENCE_IN
+404,5 years,Electrical,EXPERIENCE_IN
+405,5 years,Power Monitoring Systems (EPMS),EXPERIENCE_IN
+406,5 years,Branch Circuit Monitoring (BCM),EXPERIENCE_IN
+407,5 years,Building Automation Systems (BAS),EXPERIENCE_IN
+408,5 years,Battery Monitoring Systems (BMS),EXPERIENCE_IN
+409,5 years,CE projects,EXPERIENCE_IN
+410,2+ years,technology industry,EXPERIENCE_IN
+411,2+ years,C++,EXPERIENCE_IN
+412,2+ years,Objective-,EXPERIENCE_IN
+413,2+ years,C,EXPERIENCE_IN
+414,2+ years,ReactNative,EXPERIENCE_IN
+415,5+ years,delivering solutions,EXPERIENCE_IN
+416,2+ years,delivering solutions,EXPERIENCE_IN
+417,2+ years,managing,EXPERIENCE_IN
+418,2+ years,leading highly technical teams,EXPERIENCE_IN
+419,.,delivering solutions,EXPERIENCE_IN
+420,.,managing,EXPERIENCE_IN
+421,.,leading highly technical teams,EXPERIENCE_IN
+422,Data Platform,Azure Core Platform,EXPERIENCE_IN
+423,Data Platform,Azure DB,EXPERIENCE_IN
+424,4+ years,leading technical project management teams,EXPERIENCE_IN
+425,4+ years,network engineering,EXPERIENCE_IN
+426,4+ years,optical transport,EXPERIENCE_IN
+427,4+ years,physical IT,EXPERIENCE_IN
+428,4+ years,financial management,EXPERIENCE_IN
+429,4+ years,Photonics,EXPERIENCE_IN
+430,4+ years,fiber optics,EXPERIENCE_IN
+431,4+ years,.,EXPERIENCE_IN
+432,.,virtualization,EXPERIENCE_IN
+433,8+ years,Python,EXPERIENCE_IN
+434,8+ years,Go,EXPERIENCE_IN
+435,8+ years,C++,EXPERIENCE_IN
+436,3+ years,PCB design,EXPERIENCE_IN
+437,3+ years,integrated,EXPERIENCE_IN
+438,3+ years,discrete circuits,EXPERIENCE_IN
+439,3+ years,high-speed interfaces,EXPERIENCE_IN
+440,3+ years,.,EXPERIENCE_IN
+441,.,software,EXPERIENCE_IN
+442,5+ years,managing,EXPERIENCE_IN
+443,5+ years,engineering solutions,EXPERIENCE_IN
+444,5+ years,SQL Server,EXPERIENCE_IN
+445,5+ years,Azure SQL,EXPERIENCE_IN
+446,5+ years,Highly Available (HA),EXPERIENCE_IN
+447,5+ years,.,EXPERIENCE_IN
+448,2+ years,Java,EXPERIENCE_IN
+449,2+ years,C++,EXPERIENCE_IN
+450,2+ years,C,EXPERIENCE_IN
+451,2+ years,#,EXPERIENCE_IN
+452,2+ years,C,EXPERIENCE_IN
+453,2+ years,object-oriented programming language,EXPERIENCE_IN
+454,2+ years,coding,EXPERIENCE_IN
+455,2+ years,debugging,EXPERIENCE_IN
+456,2+ years,problem-solving,EXPERIENCE_IN
+457,2+ years,object-oriented programming,EXPERIENCE_IN
+458,2+ years,communication,EXPERIENCE_IN
+459,2+ years,distributed systems,EXPERIENCE_IN
+460,2+ years,big data technologies,EXPERIENCE_IN

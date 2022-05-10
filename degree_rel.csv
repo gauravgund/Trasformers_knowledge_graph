@@ -1,0 +1,118 @@
+degree,subject,relation
+undergraduate,Electronic Medical,DEGREE_IN
+undergraduate,computer science,DEGREE_IN
+undergraduate,.,DEGREE_IN
+BS,Engineering,DEGREE_IN
+BS,Operations,DEGREE_IN
+BS,Business,DEGREE_IN
+PhD,Acoustics,DEGREE_IN
+PhD,Mechanical Engineering,DEGREE_IN
+PhD,Physics,DEGREE_IN
+PhD,STEM,DEGREE_IN
+PhD,.,DEGREE_IN
+Bachelors,Computer Science,DEGREE_IN
+Bachelors,Engineering,DEGREE_IN
+Bachelors,Computer Science,DEGREE_IN
+Bachelors,.,DEGREE_IN
+Bachelor,Computer Science,DEGREE_IN
+Bachelor,English,DEGREE_IN
+BS or MS,Computer Science,DEGREE_IN
+BS or MS,Engineering,DEGREE_IN
+Bachelors,.,DEGREE_IN
+B.S.,Computer Science,DEGREE_IN
+M.S.,Computer Science,DEGREE_IN
+PhD,Computer Science,DEGREE_IN
+PhD,M.S.,DEGREE_IN
+PhD,Computer Science,DEGREE_IN
+Bachelors,technical,DEGREE_IN
+Bachelors,business,DEGREE_IN
+BA/BS,Computer Science,DEGREE_IN
+BA/BS,Computer Science,DEGREE_IN
+BS/BA,Electrical/Mechanical Engineering,DEGREE_IN
+BS/BA,Computer Science,DEGREE_IN
+BS/BA,Math,DEGREE_IN
+BS/BA,Telecommunications,DEGREE_IN
+Bachelors,Engineering,DEGREE_IN
+Bachelors,Computer Science,DEGREE_IN
+BA/BS,Computer Science,DEGREE_IN
+BA/BS,Computer Science,DEGREE_IN
+Technical College degree,Computer Science,DEGREE_IN
+Technical College degree,Math,DEGREE_IN
+Technical College degree,Telecommunications,DEGREE_IN
+Bachelors,Electrical Engineering,DEGREE_IN
+Bachelors,Mechanical Engineering,DEGREE_IN
+Bachelors,Material Science,DEGREE_IN
+Bachelor,Computer Science,DEGREE_IN
+Bachelors,mechanical,DEGREE_IN
+Bachelors,electrical engineering,DEGREE_IN
+Technical College certification,mechanical,DEGREE_IN
+Bachelors,Computer Science,DEGREE_IN
+Bachelors,Engineering,DEGREE_IN
+Bachelors,Elastic Search,DEGREE_IN
+Bachelors,Computer Science,DEGREE_IN
+Bachelors,Engineering,DEGREE_IN
+.,Computer Science,DEGREE_IN
+.,Engineering,DEGREE_IN
+Bachelors,Computer Science,DEGREE_IN
+BS or MS,Computer Science,DEGREE_IN
+BS or MS,Engineering,DEGREE_IN
+BS or MS,Communications,DEGREE_IN
+Bachelors,Finance,DEGREE_IN
+Bachelors,Accounting,DEGREE_IN
+Bachelors,Economics,DEGREE_IN
+Bachelors,Business Administration,DEGREE_IN
+Bachelors,Math,DEGREE_IN
+BS or MS,Computer Science,DEGREE_IN
+BS or MS,Engineering,DEGREE_IN
+Degree,Computer Science,DEGREE_IN
+Masters,Computer science,DEGREE_IN
+Bachelor,Computer Science,DEGREE_IN
+Bachelor,Amazon,DEGREE_IN
+Bachelors,Electrical Engineering,DEGREE_IN
+Bachelors,Computer Networks,DEGREE_IN
+Masters,Bachelors,DEGREE_IN
+Masters,Electrical Engineering,DEGREE_IN
+Masters,Computer Networks,DEGREE_IN
+Undergraduate,Computer Science,DEGREE_IN
+Graduate,Computer Science,DEGREE_IN
+Bachelors,Computer Science,DEGREE_IN
+Bachelors,Computer Engineering,DEGREE_IN
+BA/BS,Computer Science,DEGREE_IN
+BS,Electrical Engineering,DEGREE_IN
+Masters,Electrical Engineering,DEGREE_IN
+Bachelors,Computer Science,DEGREE_IN
+Bachelors,Electrical Engineering,DEGREE_IN
+Bachelors,Robotics,DEGREE_IN
+Bachelors,Mechanical Engineering,DEGREE_IN
+B.S.,technical discipline,DEGREE_IN
+PhD or MSc,Computer science,DEGREE_IN
+PhD or MSc,Computer engineering,DEGREE_IN
+PhD or MSc,Electrical engineering,DEGREE_IN
+PhD or MSc,.,DEGREE_IN
+BS,Computer Science,DEGREE_IN
+BS,Math,DEGREE_IN
+BS,Physics,DEGREE_IN
+BS,EE,DEGREE_IN
+BS or MS,Computer Science,DEGREE_IN
+BS or MS,Engineering,DEGREE_IN
+MS,computer science,DEGREE_IN
+MS,math,DEGREE_IN
+MS,physics,DEGREE_IN
+MS,statistics,DEGREE_IN
+Bachelors,mechanical,DEGREE_IN
+Bachelors,electrical engineering,DEGREE_IN
+Technical,mechanical,DEGREE_IN
+BS,Computer Science,DEGREE_IN
+Bachelors,Computer Science,DEGREE_IN
+Bachelors,.,DEGREE_IN
+BS/BA,Electrical/Mechanical Engineering,DEGREE_IN
+BS/BA,Computer Science,DEGREE_IN
+BS/BA,Math,DEGREE_IN
+BS/BA,Telecommunications,DEGREE_IN
+BS,Electrical Engineering,DEGREE_IN
+BS,Computer Engineering,DEGREE_IN
+.,Electrical Engineering,DEGREE_IN
+BA/BS/MS,CS,DEGREE_IN
+.,CS,DEGREE_IN
+BS/MS,Computer Science,DEGREE_IN
+BS/MS,web,DEGREE_IN
